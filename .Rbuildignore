@@ -4,4 +4,4 @@
 ^LICENSE$
 ^script\.R$
 ^\.github$
-
+^GitHubActions\.png$
