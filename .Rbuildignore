@@ -3,3 +3,5 @@
 ^script\.R$
 ^LICENSE$
 ^script\.R$
+^\.github$
+
